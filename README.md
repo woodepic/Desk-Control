@@ -6,4 +6,6 @@ I personally don't enjoy having any form of light when I try to sleep. This woul
 
 I also utilized an arduino to allow for smart control logic of the buttons, backlights, and relay timing. "Smart" features include a fade on/off animation in the buttons' backlights, minimum time between toggles (to allow devices to fully boot before power is cut to them). The PCB uses transistor-switched 12v power to allow for a PWM signal to control the buttons' backlights, optocouplers for relay isolation protection, as well as a basic power supply. 
 
-![alt text](https://github.com/woodepic/Desk-Control/blob/main/src/IMG_6762.jpg "Button 3 toggles clock")![alt text](https://github.com/woodepic/Desk-Control/blob/main/src/IMG_6766.jpg "Button 2 toggles in-desk touch monitor") ![alt text](https://github.com/woodepic/Desk-Control/blob/main/src/IMG_6767.jpg "Underside view of buttons & PCB")
+
+See below for images of the project:
+![alt text](https://github.com/woodepic/Desk-Control/blob/main/src/IMG_6762.jpg "Button 3 toggles clock") ![alt text](https://github.com/woodepic/Desk-Control/blob/main/src/IMG_6767.jpg "Underside view of buttons & PCB") ![alt text](https://github.com/woodepic/Desk-Control/blob/main/src/IMG_6766.jpg "Button 2 toggles in-desk touch monitor")

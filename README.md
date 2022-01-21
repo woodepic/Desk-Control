@@ -8,4 +8,5 @@ I also utilized an arduino to allow for smart control logic of the buttons, back
 
 
 See below for images of the project:
+
 ![alt text](https://github.com/woodepic/Desk-Control/blob/main/src/IMG_6762.jpg "Button 3 toggles clock") ![alt text](https://github.com/woodepic/Desk-Control/blob/main/src/IMG_6767.jpg "Underside view of buttons & PCB") ![alt text](https://github.com/woodepic/Desk-Control/blob/main/src/IMG_6766.jpg "Button 2 toggles in-desk touch monitor")
